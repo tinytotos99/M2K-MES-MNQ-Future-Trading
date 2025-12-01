@@ -165,8 +165,8 @@ For questions, support, or to learn more about our AI Future Trading Bots:
 
 - **Email**: tinytotos99@gmail.com
 - **Telegram**: [Your Telegram Channel]
-- **Discord**: [Your Discord Server]
-- **GitHub**: [Your GitHub Repository]
+- **Discord**: tinytotos99
+- **GitHub**: [https://github.com/tinytotos99]
 
 ---
 
