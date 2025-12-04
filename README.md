@@ -94,30 +94,31 @@ The **MNQ Bot** specializes in Micro E-mini Nasdaq-100 futures, offering AI-gene
 
 <table style="width:100%; border-collapse: collapse;">
 <tr>
-<td style="width:50%; padding:10px; vertical-align:top; border:1px solid #ddd;">
+<td style="width:50%; padding:10px; vertical-align:top; border:1px solid #ddd; text-align: center;">
+Comming soon!
 
-**Performance Chart**
+<!-- **Performance Chart** -->
 
-![MNQ Performance Chart](images/mnq-performance-chart.png)
+<!-- ![MNQ Performance Chart](images/mnq-performance-chart.png) -->
 
-*MNQ Bot performance chart illustrating account growth and trading metrics.*
-
-</td>
-<td style="width:50%; padding:10px; vertical-align:top; border:1px solid #ddd;">
-
-**Trading Signals**
-
-**Long Signal:**
-![MNQ Long Signal](images/mnq-long-signal.png)
-
-*Example MNQ long entry and exit signals for bullish market conditions.*
-
-**Short Signal:**
-![MNQ Short Signal](images/mnq-short-signal.png)
-
-*Example MNQ short entry and exit signals for bearish market conditions.*
+<!-- *MNQ Bot performance chart illustrating account growth and trading metrics.* -->
 
 </td>
+<!-- <td style="width:50%; padding:10px; vertical-align:top; border:1px solid #ddd;"> -->
+
+<!-- **Trading Signals** -->
+
+<!-- **Long Signal:** -->
+<!-- ![MNQ Long Signal](images/mnq-long-signal.png) -->
+
+<!-- *Example MNQ long entry and exit signals for bullish market conditions.* -->
+
+<!-- **Short Signal:** -->
+<!-- ![MNQ Short Signal](images/mnq-short-signal.png) -->
+
+<!-- *Example MNQ short entry and exit signals for bearish market conditions.* -->
+
+<!-- </td> -->
 </tr>
 </table>
 
@@ -164,9 +165,9 @@ The **MNQ Bot** specializes in Micro E-mini Nasdaq-100 futures, offering AI-gene
 For questions, support, or to learn more about our AI Future Trading Bots:
 
 - **Email**: tinytotos99@gmail.com
-- **Telegram**: [Your Telegram Channel]
-- **Discord**: tinytotos99
-- **GitHub**: [https://github.com/tinytotos99]
+- Discord Username: tinytotos99
+- [Discord Channel](https://discord.gg/dKzRbqRXdJ)
+- [GitHub](https://github.com/tinytotos99)
 
 ---
 
