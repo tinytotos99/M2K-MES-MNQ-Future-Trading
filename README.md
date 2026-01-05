@@ -6,6 +6,9 @@ Welcome to our suite of AI-driven trading bots designed for futures markets. Our
 
 ---
 
+🌐 Platform: https://future-trading-omega.vercel.app\
+✉ Telegram Channel: https://t.me/m2k_trading
+
 ## 📊 Trading Bots Overview
 
 ### M2K Bot - Micro E-mini Russell 2000 Index Futures
