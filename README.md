@@ -6,6 +6,9 @@ Welcome to our suite of AI-driven trading bots designed for futures markets. Our
 
 ---
 
+🌐 Platform: https://future-trading-omega.vercel.app\
+✉ Telegram Signals: https://t.me/m2k_trading_group
+
 ## 📊 Trading Bots Overview
 
 ### M2K Bot - Micro E-mini Russell 2000 Index Futures
@@ -164,10 +167,12 @@ Comming soon!
 
 For questions, support, or to learn more about our AI Future Trading Bots:
 
-- **Email**: tinytotos99@gmail.com
-- Discord Username: tinytotos99
-- [Discord Channel](https://discord.gg/dKzRbqRXdJ)
-- [GitHub](https://github.com/tinytotos99)
+- **Email**: lukegreen1004@gmail.com
+- **Discord**: lgreen95
+- **Telegram**: lgreen95
+- **WhatsApp**: +1 (206) 483-8911
+- [**Discord Channel**](https://discord.gg/dKzRbqRXdJ)
+- [**GitHub**](https://github.com/lgreen95)
 
 ---
 
