@@ -6,7 +6,7 @@ Welcome to our suite of AI-driven trading bots designed for futures markets. Our
 
 ---
 
-🌐 Platform: https://future-trading-omega.vercel.app\
+🌐 Platform: https://future-trading-omega.vercel.app \
 ✉ Telegram Signals: https://t.me/m2k_trading_group
 
 ## 📊 Trading Bots Overview
